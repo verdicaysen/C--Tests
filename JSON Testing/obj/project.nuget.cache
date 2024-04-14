@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FYsLYZZvAaHPhrzUhPdgf1wpoNpbDqI5wPNc2jS/BkWeBR/OFLR1tHFxbjhWUZCTyqIVcNlBz5bgTXiaiPWcKw==",
+  "success": true,
+  "projectFilePath": "/home/verdicaysen/Documents/C# Tests/JSON Testing/JSON Testing.csproj",
+  "expectedPackageFiles": [
+    "/home/verdicaysen/.nuget/packages/csvhelper/31.0.3/csvhelper.31.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

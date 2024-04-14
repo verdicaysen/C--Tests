@@ -1,0 +1,17 @@
+/home/verdicaysen/Documents/C# Tests/JSON Testing/bin/Debug/net8.0/JSON Testing
+/home/verdicaysen/Documents/C# Tests/JSON Testing/bin/Debug/net8.0/JSON Testing.deps.json
+/home/verdicaysen/Documents/C# Tests/JSON Testing/bin/Debug/net8.0/JSON Testing.runtimeconfig.json
+/home/verdicaysen/Documents/C# Tests/JSON Testing/bin/Debug/net8.0/JSON Testing.dll
+/home/verdicaysen/Documents/C# Tests/JSON Testing/bin/Debug/net8.0/JSON Testing.pdb
+/home/verdicaysen/Documents/C# Tests/JSON Testing/obj/Debug/net8.0/JSON Testing.GeneratedMSBuildEditorConfig.editorconfig
+/home/verdicaysen/Documents/C# Tests/JSON Testing/obj/Debug/net8.0/JSON Testing.AssemblyInfoInputs.cache
+/home/verdicaysen/Documents/C# Tests/JSON Testing/obj/Debug/net8.0/JSON Testing.AssemblyInfo.cs
+/home/verdicaysen/Documents/C# Tests/JSON Testing/obj/Debug/net8.0/JSON Testing.csproj.CoreCompileInputs.cache
+/home/verdicaysen/Documents/C# Tests/JSON Testing/obj/Debug/net8.0/JSON Testing.dll
+/home/verdicaysen/Documents/C# Tests/JSON Testing/obj/Debug/net8.0/refint/JSON Testing.dll
+/home/verdicaysen/Documents/C# Tests/JSON Testing/obj/Debug/net8.0/JSON Testing.pdb
+/home/verdicaysen/Documents/C# Tests/JSON Testing/obj/Debug/net8.0/JSON Testing.genruntimeconfig.cache
+/home/verdicaysen/Documents/C# Tests/JSON Testing/obj/Debug/net8.0/ref/JSON Testing.dll
+/home/verdicaysen/Documents/C# Tests/JSON Testing/bin/Debug/net8.0/CsvHelper.dll
+/home/verdicaysen/Documents/C# Tests/JSON Testing/obj/Debug/net8.0/JSON Testing.csproj.AssemblyReference.cache
+/home/verdicaysen/Documents/C# Tests/JSON Testing/obj/Debug/net8.0/JSON Tes.C395D1CC.Up2Date
