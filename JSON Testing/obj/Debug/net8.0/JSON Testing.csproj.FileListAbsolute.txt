@@ -15,3 +15,4 @@
 /home/verdicaysen/Documents/C# Tests/JSON Testing/bin/Debug/net8.0/CsvHelper.dll
 /home/verdicaysen/Documents/C# Tests/JSON Testing/obj/Debug/net8.0/JSON Testing.csproj.AssemblyReference.cache
 /home/verdicaysen/Documents/C# Tests/JSON Testing/obj/Debug/net8.0/JSON Tes.C395D1CC.Up2Date
+/home/verdicaysen/Documents/C# Tests/JSON Testing/obj/Debug/net8.0/JSON Testing.sourcelink.json
