@@ -1,0 +1,15 @@
+/home/verdicaysen/Documents/C# Tests/Variables/bin/Debug/net8.0/Variables
+/home/verdicaysen/Documents/C# Tests/Variables/bin/Debug/net8.0/Variables.deps.json
+/home/verdicaysen/Documents/C# Tests/Variables/bin/Debug/net8.0/Variables.runtimeconfig.json
+/home/verdicaysen/Documents/C# Tests/Variables/bin/Debug/net8.0/Variables.dll
+/home/verdicaysen/Documents/C# Tests/Variables/bin/Debug/net8.0/Variables.pdb
+/home/verdicaysen/Documents/C# Tests/Variables/obj/Debug/net8.0/Variables.GeneratedMSBuildEditorConfig.editorconfig
+/home/verdicaysen/Documents/C# Tests/Variables/obj/Debug/net8.0/Variables.AssemblyInfoInputs.cache
+/home/verdicaysen/Documents/C# Tests/Variables/obj/Debug/net8.0/Variables.AssemblyInfo.cs
+/home/verdicaysen/Documents/C# Tests/Variables/obj/Debug/net8.0/Variables.csproj.CoreCompileInputs.cache
+/home/verdicaysen/Documents/C# Tests/Variables/obj/Debug/net8.0/Variables.sourcelink.json
+/home/verdicaysen/Documents/C# Tests/Variables/obj/Debug/net8.0/Variables.dll
+/home/verdicaysen/Documents/C# Tests/Variables/obj/Debug/net8.0/refint/Variables.dll
+/home/verdicaysen/Documents/C# Tests/Variables/obj/Debug/net8.0/Variables.pdb
+/home/verdicaysen/Documents/C# Tests/Variables/obj/Debug/net8.0/Variables.genruntimeconfig.cache
+/home/verdicaysen/Documents/C# Tests/Variables/obj/Debug/net8.0/ref/Variables.dll
