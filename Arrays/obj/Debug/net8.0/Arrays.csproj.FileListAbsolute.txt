@@ -1,0 +1,15 @@
+/home/verdicaysen/Documents/C# Tests/Arrays/bin/Debug/net8.0/Arrays
+/home/verdicaysen/Documents/C# Tests/Arrays/bin/Debug/net8.0/Arrays.deps.json
+/home/verdicaysen/Documents/C# Tests/Arrays/bin/Debug/net8.0/Arrays.runtimeconfig.json
+/home/verdicaysen/Documents/C# Tests/Arrays/bin/Debug/net8.0/Arrays.dll
+/home/verdicaysen/Documents/C# Tests/Arrays/bin/Debug/net8.0/Arrays.pdb
+/home/verdicaysen/Documents/C# Tests/Arrays/obj/Debug/net8.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/verdicaysen/Documents/C# Tests/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfoInputs.cache
+/home/verdicaysen/Documents/C# Tests/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfo.cs
+/home/verdicaysen/Documents/C# Tests/Arrays/obj/Debug/net8.0/Arrays.csproj.CoreCompileInputs.cache
+/home/verdicaysen/Documents/C# Tests/Arrays/obj/Debug/net8.0/Arrays.sourcelink.json
+/home/verdicaysen/Documents/C# Tests/Arrays/obj/Debug/net8.0/Arrays.dll
+/home/verdicaysen/Documents/C# Tests/Arrays/obj/Debug/net8.0/refint/Arrays.dll
+/home/verdicaysen/Documents/C# Tests/Arrays/obj/Debug/net8.0/Arrays.pdb
+/home/verdicaysen/Documents/C# Tests/Arrays/obj/Debug/net8.0/Arrays.genruntimeconfig.cache
+/home/verdicaysen/Documents/C# Tests/Arrays/obj/Debug/net8.0/ref/Arrays.dll
